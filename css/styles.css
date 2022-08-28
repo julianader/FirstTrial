@@ -185,3 +185,9 @@
 .main_btn:hover:after{
     width:100%;
 }
+
+.main_another{
+    background-color:  #131313;
+    padding:0;
+    
+}
